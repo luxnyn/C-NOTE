@@ -25,3 +25,6 @@ while和for语句在执行循环体之前检查条件，do while语句先执行�
 ### 5.4.4 do while 语句
 do while 语句和while语句非常相似，先执行循环体后检查条件。
 ## 5.5 跳转语句
+### 5.5.1 break语句
+### 5.5.2 continue语句
+### 5.5.3 goto语句
